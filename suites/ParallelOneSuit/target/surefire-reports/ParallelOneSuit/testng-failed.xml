@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="0" name="Failed suite [ParallelOneSuit]" parallel="tests">
+  <parameter name="Node" value="192.168.99.100"/>
+  <test name="Opal1(failed)" parallel="tests">
+    <parameter name="Node" value="192.168.99.100"/>
+    <classes>
+      <class name="AutomationExModule.AutomationExFeature.ForLoopScript">
+        <methods>
+          <include name="step_2"/>
+        </methods>
+      </class> <!-- AutomationExModule.AutomationExFeature.ForLoopScript -->
+    </classes>
+  </test> <!-- Opal1(failed) -->
+  <test name="Opal2(failed)" parallel="tests">
+    <parameter name="Node" value="192.168.99.100"/>
+    <classes>
+      <class name="AutomationExModule.AutomationExFeature.AutomationPassScript">
+        <methods>
+          <include name="step_4"/>
+          <include name="step_3"/>
+          <include name="step_6"/>
+          <include name="step_5"/>
+          <include name="step_2"/>
+        </methods>
+      </class> <!-- AutomationExModule.AutomationExFeature.AutomationPassScript -->
+    </classes>
+  </test> <!-- Opal2(failed) -->
+</suite> <!-- Failed suite [ParallelOneSuit] -->

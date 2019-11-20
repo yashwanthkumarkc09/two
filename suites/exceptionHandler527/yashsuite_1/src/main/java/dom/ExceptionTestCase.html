@@ -1,0 +1,82 @@
+<html><head>
+<style>
+.iexplorer input{
+{
+	font-size:17px !important;
+}
+
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>MeeHappy</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/images/mhw_facicon.png">
+<!-- Required CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/webjars/adminlte/2.3.11/bootstrap/css/bootstrap.min.css">
+<link href="/css/style.css" rel="stylesheet">
+<link href="/css/common.css" rel="stylesheet">
+<link href="/css/responsive.css" rel="stylesheet">
+<!-- Required JS -->
+<script src="/webjars/jquery/3.3.1/jquery.js"></script>
+<script src="/webjars/adminlte/2.3.11/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/common.js"></script>
+<script src="/js/login.js"></script>
+
+</head>
+<body>
+	<div class="main-bg">
+		<div class="container">
+		<div class="login-container">
+			<div class="login-logo">
+				<img src="images/logo.png" class="img-responsive" width="300px">
+			</div>
+			
+			<div class="login-scroll custom-scroll-bar">
+			<div class="login-box">
+			
+				<div class="login-bg">Login</div>
+				<div class="form-login">
+					<div id="errormsg"><span style="color: red;"> </span></div>
+					<div class="form-group label-text login-label">
+						<label> <img src="/images/mail.png">Username</label> 
+						<input type="email" required="" id="userName" name="userName" onkeypress="return EnterBtnKeyEvent(event)">						
+					</div>
+						<div class="form-group label-text password-label">
+						<label><img src="/images/pw.png">Password </label><input type="password" required="" id="password" name="password" onkeypress="return EnterBtnKeyEvent(event)">
+						<label class="input-group-addon hideshowpw password">
+					      <input type="checkbox" style="display:none" onclick="(function(e, el){document.getElementById('password').type = el.checked ? 'text' : 'password';el.parentNode.lastElementChild.innerHTML = el.checked ?'<i class=\'fa fa-fw fa-eye-slash\'>' : '<i class=\'fa fa-fw fa-eye\'>';})(event, this)">
+					       <span><i class="fa fa-fw fa-eye"></i></span>
+   						</label>
+   						
+					</div>
+					<div class="form-group">
+					<button class="btnKeyEvent" id="loginBtn" onclick="doLogin();">Login</button>
+					</div>
+				</div>
+				 <a href="/forgot" class="forgot">Forgot your password?</a>
+			</div>
+			
+			<div class="for-signup">
+				New User? <a class="signup" href="/signup">SignUp</a>
+			</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+
+<script>
+$(document).ready(function(){
+	if (navigator.appName == 'Microsoft Internet Explorer' ||  !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/)) || (typeof $.browser !== "undefined" && $.browser.msie == 1)){
+	//	alert("You use IE. ThatŽs no good.");
+		$(".form-login").addClass("iexplorer")
+	
+	} else{
+		//	alert("Your r good")
+	}
+	
+})
+
+
+</script>
+</body></html>

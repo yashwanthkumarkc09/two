@@ -1,0 +1,140 @@
+{"testng-results": {
+          "reporter-output": {"line": [
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_0.png",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Videos\\499_NwPassSuitFour_AutomationPassScript.mp4",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_1.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_2.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_3.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_4.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_5.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_6.png"
+          ]},
+          "total": 7,
+          "suite": {
+                    "test": {
+                              "started-at": "2019-11-13T11:06:39Z",
+                              "name": "Opal1",
+                              "finished-at": "2019-11-13T11:07:25Z",
+                              "class": {
+                                        "test-method": [
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_0.png",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Videos\\499_NwPassSuitFour_AutomationPassScript.mp4"
+                                                            ]},
+                                                            "signature": "step_0()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:36:39Z",
+                                                            "name": "step_0",
+                                                            "finished-at": "2019-11-13T16:36:44Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 5361
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_1.png"
+                                                            ]},
+                                                            "signature": "step_1()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:36:44Z",
+                                                            "name": "step_1",
+                                                            "finished-at": "2019-11-13T16:36:48Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 4023
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_2.png"
+                                                            ]},
+                                                            "signature": "step_2()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:36:48Z",
+                                                            "name": "step_2",
+                                                            "finished-at": "2019-11-13T16:36:52Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3684
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_3.png"
+                                                            ]},
+                                                            "signature": "step_3()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:36:52Z",
+                                                            "name": "step_3",
+                                                            "finished-at": "2019-11-13T16:37:03Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 10624
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_4.png"
+                                                            ]},
+                                                            "signature": "step_4()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:37:03Z",
+                                                            "name": "step_4",
+                                                            "finished-at": "2019-11-13T16:37:15Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 12288
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_5.png"
+                                                            ]},
+                                                            "signature": "step_5()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:37:15Z",
+                                                            "name": "step_5",
+                                                            "finished-at": "2019-11-13T16:37:18Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3525
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\NwPassSuitFour\\.\\Screenshot\\EachStepScreenshot\\499_NwPassSuitFour\\AutomationPassScript\\step_6.png"
+                                                            ]},
+                                                            "signature": "step_6()[pri:0, instance:AutomationExModule.AutomationExFeature.AutomationPassScript@ff5b51f]",
+                                                            "started-at": "2019-11-13T16:37:18Z",
+                                                            "name": "step_6",
+                                                            "finished-at": "2019-11-13T16:37:25Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 6343
+                                                  }
+                                        ],
+                                        "name": "AutomationExModule.AutomationExFeature.AutomationPassScript"
+                              },
+                              "duration-ms": 45872
+                    },
+                    "started-at": "2019-11-13T11:06:39Z",
+                    "name": "NwPassSuitFour",
+                    "groups": "",
+                    "finished-at": "2019-11-13T11:07:25Z",
+                    "duration-ms": 45872
+          },
+          "failed": 0,
+          "passed": 7,
+          "skipped": 0
+}}

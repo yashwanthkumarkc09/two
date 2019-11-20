@@ -1,0 +1,124 @@
+{"testng-results": {
+          "reporter-output": {"line": [
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_0.png",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Videos\\524_1_ravizzsuite_1_ExceptionTestCase.mp4",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_1.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_2.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_3.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_4.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_5.png"
+          ]},
+          "total": 6,
+          "suite": {
+                    "test": {
+                              "started-at": "2019-11-16T05:10:16Z",
+                              "name": "Opal1",
+                              "finished-at": "2019-11-16T05:10:55Z",
+                              "class": {
+                                        "test-method": [
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_0.png",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Videos\\524_1_ravizzsuite_1_ExceptionTestCase.mp4"
+                                                            ]},
+                                                            "signature": "step_0()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:16Z",
+                                                            "name": "step_0",
+                                                            "finished-at": "2019-11-16T10:40:28Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 11687
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_1.png"
+                                                            ]},
+                                                            "signature": "step_1()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:28Z",
+                                                            "name": "step_1",
+                                                            "finished-at": "2019-11-16T10:40:36Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 7575
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_2.png"
+                                                            ]},
+                                                            "signature": "step_2()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:36Z",
+                                                            "name": "step_2",
+                                                            "finished-at": "2019-11-16T10:40:39Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3490
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_3.png"
+                                                            ]},
+                                                            "signature": "step_3()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:39Z",
+                                                            "name": "step_3",
+                                                            "finished-at": "2019-11-16T10:40:42Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2603
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_4.png"
+                                                            ]},
+                                                            "signature": "step_4()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:42Z",
+                                                            "name": "step_4",
+                                                            "finished-at": "2019-11-16T10:40:50Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 8354
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler524\\ravizzsuite_1\\.\\Screenshot\\EachStepScreenshot\\524_1_ravizzsuite_1\\ExceptionTestCase\\step_5.png"
+                                                            ]},
+                                                            "signature": "step_5()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@5702b3b1]",
+                                                            "started-at": "2019-11-16T10:40:50Z",
+                                                            "name": "step_5",
+                                                            "finished-at": "2019-11-16T10:40:55Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 5323
+                                                  }
+                                        ],
+                                        "name": "ExceptionModule.ExceptionFeature.ExceptionTestCase"
+                              },
+                              "duration-ms": 39065
+                    },
+                    "started-at": "2019-11-16T05:10:16Z",
+                    "name": "ravizzsuite_1",
+                    "groups": "",
+                    "finished-at": "2019-11-16T05:10:55Z",
+                    "duration-ms": 39065
+          },
+          "failed": 0,
+          "passed": 6,
+          "skipped": 0
+}}

@@ -1,0 +1,124 @@
+{"testng-results": {
+          "reporter-output": {"line": [
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_0.png",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Videos\\519_1_novexsuite_1_ExceptionTestCase.mp4",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_1.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_2.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_3.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_4.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_5.png"
+          ]},
+          "total": 6,
+          "suite": {
+                    "test": {
+                              "started-at": "2019-11-15T16:42:04Z",
+                              "name": "Opal1",
+                              "finished-at": "2019-11-15T16:42:42Z",
+                              "class": {
+                                        "test-method": [
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_0.png",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Videos\\519_1_novexsuite_1_ExceptionTestCase.mp4"
+                                                            ]},
+                                                            "signature": "step_0()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:04Z",
+                                                            "name": "step_0",
+                                                            "finished-at": "2019-11-15T22:12:16Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 12375
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_1.png"
+                                                            ]},
+                                                            "signature": "step_1()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:16Z",
+                                                            "name": "step_1",
+                                                            "finished-at": "2019-11-15T22:12:23Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 7081
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_2.png"
+                                                            ]},
+                                                            "signature": "step_2()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:23Z",
+                                                            "name": "step_2",
+                                                            "finished-at": "2019-11-15T22:12:27Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3343
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_3.png"
+                                                            ]},
+                                                            "signature": "step_3()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:27Z",
+                                                            "name": "step_3",
+                                                            "finished-at": "2019-11-15T22:12:29Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2587
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_4.png"
+                                                            ]},
+                                                            "signature": "step_4()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:29Z",
+                                                            "name": "step_4",
+                                                            "finished-at": "2019-11-15T22:12:37Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 8198
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\exceptionHandler519\\novexsuite_1\\.\\Screenshot\\EachStepScreenshot\\519_1_novexsuite_1\\ExceptionTestCase\\step_5.png"
+                                                            ]},
+                                                            "signature": "step_5()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-15T22:12:37Z",
+                                                            "name": "step_5",
+                                                            "finished-at": "2019-11-15T22:12:42Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 4359
+                                                  }
+                                        ],
+                                        "name": "ExceptionModule.ExceptionFeature.ExceptionTestCase"
+                              },
+                              "duration-ms": 37970
+                    },
+                    "started-at": "2019-11-15T16:42:04Z",
+                    "name": "novexsuite_1",
+                    "groups": "",
+                    "finished-at": "2019-11-15T16:42:42Z",
+                    "duration-ms": 37970
+          },
+          "failed": 0,
+          "passed": 6,
+          "skipped": 0
+}}

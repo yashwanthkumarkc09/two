@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [navennExsuite]" parallel="tests">
+  <parameter name="Node" value="192.168.99.100"/>
+  <test name="Opal1(failed)" parallel="tests">
+    <parameter name="Node" value="192.168.99.100"/>
+    <classes>
+      <class name="ExceptionModule.ExceptionFeature.ExceptionTestCase">
+        <methods>
+          <include name="step_4"/>
+          <include name="step_5"/>
+        </methods>
+      </class> <!-- ExceptionModule.ExceptionFeature.ExceptionTestCase -->
+    </classes>
+  </test> <!-- Opal1(failed) -->
+</suite> <!-- Failed suite [navennExsuite] -->

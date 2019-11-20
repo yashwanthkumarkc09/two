@@ -1,0 +1,24 @@
+{
+  "BrowserDetails": {
+    "Browser": "Chrome",
+    "Version": "77.0.3865.75",
+    "BrowserType": "Chrome"
+  },
+  "Timeout": {
+    "ImplicitWait": "6",
+    "ExplicitWait": "40"
+  },
+  "ScreenshotOption": {
+    "CaptureOnEveryStep": "Yes",
+    "CaptureOnFailure": "Yes"
+  },
+  "ExecutionCount": {
+    "reportCount": "527_1"
+  },
+  "SuiteName": {
+    "suiteName": "yashsuite_1"
+  },
+  "IpAddress": {
+    "IP": "http://192.168.99.100:4444"
+  }
+}

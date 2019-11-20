@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 44.261 s <<< FAILURE! - in TestSuite
+step_6(AutomationExModule.AutomationExFeature.AutomationPassScript)  Time elapsed: 3.187 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+null
+	at AutomationExModule.AutomationExFeature.AutomationPassScript.step_6(AutomationPassScript.java:228)
+

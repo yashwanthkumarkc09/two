@@ -1,0 +1,124 @@
+{"testng-results": {
+          "reporter-output": {"line": [
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_0.png",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Videos\\515_ExcepHandleSuit_ExceptionTestCase.mp4",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_1.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_2.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_3.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_4.png",
+                    "Chrome",
+                    "77.0.3865.75",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_5.png"
+          ]},
+          "total": 6,
+          "suite": {
+                    "test": {
+                              "started-at": "2019-11-14T11:02:10Z",
+                              "name": "Opal1",
+                              "finished-at": "2019-11-14T11:02:44Z",
+                              "class": {
+                                        "test-method": [
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_0.png",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Videos\\515_ExcepHandleSuit_ExceptionTestCase.mp4"
+                                                            ]},
+                                                            "signature": "step_0()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:10Z",
+                                                            "name": "step_0",
+                                                            "finished-at": "2019-11-14T16:32:18Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 7698
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_1.png"
+                                                            ]},
+                                                            "signature": "step_1()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:18Z",
+                                                            "name": "step_1",
+                                                            "finished-at": "2019-11-14T16:32:25Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 7461
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_2.png"
+                                                            ]},
+                                                            "signature": "step_2()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:25Z",
+                                                            "name": "step_2",
+                                                            "finished-at": "2019-11-14T16:32:28Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3375
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_3.png"
+                                                            ]},
+                                                            "signature": "step_3()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:28Z",
+                                                            "name": "step_3",
+                                                            "finished-at": "2019-11-14T16:32:31Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2579
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_4.png"
+                                                            ]},
+                                                            "signature": "step_4()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:31Z",
+                                                            "name": "step_4",
+                                                            "finished-at": "2019-11-14T16:32:39Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 8186
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "77.0.3865.75",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ExcepHandleSuit\\.\\Screenshot\\EachStepScreenshot\\515_ExcepHandleSuit\\ExceptionTestCase\\step_5.png"
+                                                            ]},
+                                                            "signature": "step_5()[pri:0, instance:ExceptionModule.ExceptionFeature.ExceptionTestCase@ff5b51f]",
+                                                            "started-at": "2019-11-14T16:32:39Z",
+                                                            "name": "step_5",
+                                                            "finished-at": "2019-11-14T16:32:44Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 4402
+                                                  }
+                                        ],
+                                        "name": "ExceptionModule.ExceptionFeature.ExceptionTestCase"
+                              },
+                              "duration-ms": 33733
+                    },
+                    "started-at": "2019-11-14T11:02:10Z",
+                    "name": "ExcepHandleSuit",
+                    "groups": "",
+                    "finished-at": "2019-11-14T11:02:44Z",
+                    "duration-ms": 33733
+          },
+          "failed": 0,
+          "passed": 6,
+          "skipped": 0
+}}

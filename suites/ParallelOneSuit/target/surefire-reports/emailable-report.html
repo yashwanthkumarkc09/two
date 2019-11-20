@@ -1,0 +1,283 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.result,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.result td,table.result th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.result th {vertical-align:bottom}
+tr.param th {padding-left:1em;padding-right:1em}
+tr.param td {padding-left:.5em;padding-right:2em}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.result td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.result tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Opal1</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">52.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">Opal2</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi_attn">5</td><td class="numi">94.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="total"><td>Total</td>
+<td class="numi">4</td><td class="numi">4</td><td class="numi">0</td><td class="numi_attn">6</td><td class="numi">94.0 seconds</td><td colspan="2">&nbsp;</td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="passed" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr><th colspan="4">Opal1 &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="1">AutomationExModule.AutomationExFeature.ForLoopScript</td><td><a href="#m1"><b>step_2</b>  </a></td><td class="numi">1</td><td>1574070581918</td><td class="numi">33114</td></tr>
+<tr><th colspan="4">Opal1 &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">AutomationExModule.AutomationExFeature.ForLoopScript</td><td><a href="#m2"><b>step_0</b>  </a></td><td class="numi">1</td><td>1574070562773</td><td class="numi">16316</td></tr><tr class="passedodd"><td><a href="#m3"><b>step_1</b>  </a></td><td class="numi">1</td><td>1574070579090</td><td class="numi">2828</td></tr>
+<tr><th colspan="4">Opal2 &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="5">AutomationExModule.AutomationExFeature.AutomationPassScript</td><td><a href="#m4"><b>step_2</b>  </a></td><td class="numi">1</td><td>1574070617817</td><td class="numi">38908</td></tr><tr class="failedodd"><td><a href="#m5"><b>step_3</b>  </a></td><td class="numi">1</td><td>1574070656726</td><td class="numi">33</td></tr><tr class="failedodd"><td><a href="#m6"><b>step_4</b>  </a></td><td class="numi">1</td><td>1574070656760</td><td class="numi">2</td></tr><tr class="failedodd"><td><a href="#m7"><b>step_5</b>  </a></td><td class="numi">1</td><td>1574070656763</td><td class="numi">3</td></tr><tr class="failedodd"><td><a href="#m8"><b>step_6</b>  </a></td><td class="numi">1</td><td>1574070656767</td><td class="numi">8</td></tr>
+<tr><th colspan="4">Opal2 &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">AutomationExModule.AutomationExFeature.AutomationPassScript</td><td><a href="#m9"><b>step_0</b>  </a></td><td class="numi">1</td><td>1574070562785</td><td class="numi">12606</td></tr><tr class="passedodd"><td><a href="#m10"><b>step_1</b>  </a></td><td class="numi">1</td><td>1574070575392</td><td class="numi">42424</td></tr>
+</table>
+<h1>Opal1</h1>
+<h2 id="m1">AutomationExModule.AutomationExFeature.ForLoopScript:step_2</h2>
+<div style="padding-left:3em">
+<h3>Test Messages</h3>
+Chrome<br/>
+70.0.3538.77<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\FailedScreenshot\530_ParallelOneSuit\ForLoopScript\step_2.png<br/>
+<h3>Failure</h3>
+<p>no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;userName&apos;]&quot;}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 4.14.141-boot2docker x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600233 (523efee95e3d68..., userDataDir: /tmp/.org.chromium.Chromium...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:38791}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true, webdriver.remote.sessionid: 5d45c48c74ecc61c579839efbd1...}
+Session ID: 5d45c48c74ecc61c579839efbd1ffcb1
+*** Element info: {Using=xpath, value=//input[@id=&apos;userName&apos;]}</p>
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+<br/>at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+<br/>at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)
+<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
+<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<br/>at com.sun.proxy.$Proxy6.sendKeys(Unknown Source)
+<br/>at reuseablePackage.feature.AllActions.EnterData(AllActions.java:802)
+<br/>at AutomationExModule.AutomationExFeature.ForLoopScript.step_2(ForLoopScript.java:105)
+<br/>21 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">AutomationExModule.AutomationExFeature.ForLoopScript:step_1</h2>
+<div style="padding-left:3em">
+Chrome<br/>
+70.0.3538.77<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\EachStepScreenshot\530_ParallelOneSuit\ForLoopScript\step_1.png<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">AutomationExModule.AutomationExFeature.ForLoopScript:step_0</h2>
+<div style="padding-left:3em">
+Chrome<br/>
+70.0.3538.77<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\EachStepScreenshot\530_ParallelOneSuit\ForLoopScript\step_0.png<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Videos\530_ParallelOneSuit_ForLoopScript.mp4<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>Opal2</h1>
+<h2 id="m4">AutomationExModule.AutomationExFeature.AutomationPassScript:step_5</h2>
+<div style="padding-left:3em">
+<p>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: driver.version: RemoteWebDriver</p>
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:291)
+<br/>at reuseablePackage.feature.AllActions.CaptureOnFailure(AllActions.java:1093)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_5(AutomationPassScript.java:202)
+<br/>21 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m5">AutomationExModule.AutomationExFeature.AutomationPassScript:step_2</h2>
+<div style="padding-left:3em">
+<h3>Test Messages</h3>
+Chrome<br/>
+56.0.2924.87<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\FailedScreenshot\530_ParallelOneSuit\AutomationPassScript\step_2.png<br/>
+<h3>Failure</h3>
+<p>no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;userName&apos;]&quot;}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.14.141-boot2docker x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:48:19 -0700&apos;
+System info: host: &apos;6657aaf7dc08&apos;, ip: &apos;172.17.0.4&apos;, os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;4.14.141-boot2docker&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.GBQMMW}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 348b1b4b07b10fd8ed117696d11cd696
+*** Element info: {Using=xpath, value=//input[@id=&apos;userName&apos;]}
+Command duration or timeout: 0 milliseconds</p>
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+<br/>at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+<br/>at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)
+<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
+<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<br/>at com.sun.proxy.$Proxy6.sendKeys(Unknown Source)
+<br/>at reuseablePackage.feature.AllActions.EnterData(AllActions.java:802)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_2(AutomationPassScript.java:104)
+<br/>21 lines not shown
+<p>Caused by Screen shot has been taken</p>
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:140)
+<br/>at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+<br/>at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+<br/>at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)
+<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
+<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<br/>at com.sun.proxy.$Proxy6.sendKeys(Unknown Source)
+<br/>at reuseablePackage.feature.AllActions.EnterData(AllActions.java:802)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_2(AutomationPassScript.java:104)
+<br/>21 lines not shown
+<p>Caused by no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;userName&apos;]&quot;}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.14.141-boot2docker x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:48:19 -0700&apos;
+System info: host: &apos;6657aaf7dc08&apos;, ip: &apos;172.17.0.4&apos;, os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;4.14.141-boot2docker&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.GBQMMW}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 348b1b4b07b10fd8ed117696d11cd696
+*** Element info: {Using=xpath, value=//input[@id=&apos;userName&apos;]}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: driver.version: EventFiringWebDriver</p>
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+<br/>at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+<br/>at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+<br/>at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+<br/>at java.lang.reflect.Method.invoke(Method.java:498)
+<br/>at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+<br/>at com.sun.proxy.$Proxy6.findElement(Unknown Source)
+<br/>at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:187)
+<br/>at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+<br/>at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:33)
+<br/>at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+<br/>at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+<br/>at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+<br/>at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+<br/>at java.lang.Thread.run(Thread.java:745)
+<br/>1 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m6">AutomationExModule.AutomationExFeature.AutomationPassScript:step_3</h2>
+<div style="padding-left:3em">
+<p>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: driver.version: RemoteWebDriver</p>
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:291)
+<br/>at reuseablePackage.feature.AllActions.CaptureOnFailure(AllActions.java:1093)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_3(AutomationPassScript.java:144)
+<br/>21 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m7">AutomationExModule.AutomationExFeature.AutomationPassScript:step_4</h2>
+<div style="padding-left:3em">
+<p>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: driver.version: RemoteWebDriver</p>
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:291)
+<br/>at reuseablePackage.feature.AllActions.CaptureOnFailure(AllActions.java:1093)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_4(AutomationPassScript.java:173)
+<br/>21 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m8">AutomationExModule.AutomationExFeature.AutomationPassScript:step_6</h2>
+<div style="padding-left:3em">
+<p>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;
+System info: host: &apos;DESKTOP-LSUVMN2&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: driver.version: RemoteWebDriver</p>
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:291)
+<br/>at reuseablePackage.feature.AllActions.CaptureOnFailure(AllActions.java:1093)
+<br/>at AutomationExModule.AutomationExFeature.AutomationPassScript.step_6(AutomationPassScript.java:235)
+<br/>21 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m9">AutomationExModule.AutomationExFeature.AutomationPassScript:step_1</h2>
+<div style="padding-left:3em">
+Chrome<br/>
+56.0.2924.87<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\EachStepScreenshot\530_ParallelOneSuit\AutomationPassScript\step_1.png<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m10">AutomationExModule.AutomationExFeature.AutomationPassScript:step_0</h2>
+<div style="padding-left:3em">
+Chrome<br/>
+56.0.2924.87<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Screenshot\EachStepScreenshot\530_ParallelOneSuit\AutomationPassScript\step_0.png<br/>
+C:\Users\yashwanth\Desktop\svn\sprint11\1001\uploads\opal\MyDemoProject\suites\ParallelOneSuit\.\Videos\530_ParallelOneSuit_AutomationPassScript.mp4<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE suite SYSTEM 'http://testng.org/testng-1.0.dtd'>
+<suite thread-count="2"  name="ParallelOneSuit" parallel="tests" >
+<test name="Opal1">
+<parameter name="Node" value="192.168.99.100"/>
+<classes><class name="AutomationExModule.AutomationExFeature.ForLoopScript"/></classes>
+</test>
+<test name="Opal2">
+<parameter name="Node" value="192.168.99.100"/>
+<classes><class name="AutomationExModule.AutomationExFeature.AutomationPassScript"/></classes>
+</test>
+</suite>

@@ -1,0 +1,300 @@
+{"testng-results": {
+          "reporter-output": {"line": [
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_0.png",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Videos\\520_ausuite_AutoGenScript.mp4",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_1.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_2.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_3.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_4.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_5.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_6.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_7.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_8.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_9.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_10.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_11.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_12.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_13.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_14.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_15.png",
+                    "Chrome",
+                    "70.0.3538.77",
+                    "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_16.png"
+          ]},
+          "total": 17,
+          "suite": {
+                    "test": {
+                              "started-at": "2019-11-15T17:54:40Z",
+                              "name": "Opal1",
+                              "finished-at": "2019-11-15T17:55:51Z",
+                              "class": {
+                                        "test-method": [
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_0.png",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Videos\\520_ausuite_AutoGenScript.mp4"
+                                                            ]},
+                                                            "signature": "step_0()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:24:40Z",
+                                                            "name": "step_0",
+                                                            "finished-at": "2019-11-15T23:24:54Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 13621
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_1.png"
+                                                            ]},
+                                                            "signature": "step_1()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:24:54Z",
+                                                            "name": "step_1",
+                                                            "finished-at": "2019-11-15T23:25:01Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 7092
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_2.png"
+                                                            ]},
+                                                            "signature": "step_2()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:01Z",
+                                                            "name": "step_2",
+                                                            "finished-at": "2019-11-15T23:25:04Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3736
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_3.png"
+                                                            ]},
+                                                            "signature": "step_3()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:04Z",
+                                                            "name": "step_3",
+                                                            "finished-at": "2019-11-15T23:25:07Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2867
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_4.png"
+                                                            ]},
+                                                            "signature": "step_4()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:07Z",
+                                                            "name": "step_4",
+                                                            "finished-at": "2019-11-15T23:25:17Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 9709
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_5.png"
+                                                            ]},
+                                                            "signature": "step_5()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:17Z",
+                                                            "name": "step_5",
+                                                            "finished-at": "2019-11-15T23:25:19Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2572
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_6.png"
+                                                            ]},
+                                                            "signature": "step_6()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:19Z",
+                                                            "name": "step_6",
+                                                            "finished-at": "2019-11-15T23:25:22Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2184
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_7.png"
+                                                            ]},
+                                                            "signature": "step_7()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:22Z",
+                                                            "name": "step_7",
+                                                            "finished-at": "2019-11-15T23:25:24Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2697
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_8.png"
+                                                            ]},
+                                                            "signature": "step_8()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:24Z",
+                                                            "name": "step_8",
+                                                            "finished-at": "2019-11-15T23:25:28Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 3399
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_9.png"
+                                                            ]},
+                                                            "signature": "step_9()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:28Z",
+                                                            "name": "step_9",
+                                                            "finished-at": "2019-11-15T23:25:30Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2227
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_10.png"
+                                                            ]},
+                                                            "signature": "step_10()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:30Z",
+                                                            "name": "step_10",
+                                                            "finished-at": "2019-11-15T23:25:32Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2501
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_11.png"
+                                                            ]},
+                                                            "signature": "step_11()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:32Z",
+                                                            "name": "step_11",
+                                                            "finished-at": "2019-11-15T23:25:35Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2665
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_12.png"
+                                                            ]},
+                                                            "signature": "step_12()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:35Z",
+                                                            "name": "step_12",
+                                                            "finished-at": "2019-11-15T23:25:38Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2804
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_13.png"
+                                                            ]},
+                                                            "signature": "step_13()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:38Z",
+                                                            "name": "step_13",
+                                                            "finished-at": "2019-11-15T23:25:41Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2564
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_14.png"
+                                                            ]},
+                                                            "signature": "step_14()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:41Z",
+                                                            "name": "step_14",
+                                                            "finished-at": "2019-11-15T23:25:43Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2494
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_15.png"
+                                                            ]},
+                                                            "signature": "step_15()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:43Z",
+                                                            "name": "step_15",
+                                                            "finished-at": "2019-11-15T23:25:46Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 2485
+                                                  },
+                                                  {
+                                                            "reporter-output": {"line": [
+                                                                      "Chrome",
+                                                                      "70.0.3538.77",
+                                                                      "C:\\Users\\yashwanth\\Desktop\\svn\\sprint11\\1001\\uploads\\opal\\MyDemoProject\\suites\\ausuite\\.\\Screenshot\\EachStepScreenshot\\520_ausuite\\AutoGenScript\\step_16.png"
+                                                            ]},
+                                                            "signature": "step_16()[pri:0, instance:ManualStepExModule.AutoGenFeature.AutoGenScript@5702b3b1]",
+                                                            "started-at": "2019-11-15T23:25:46Z",
+                                                            "name": "step_16",
+                                                            "finished-at": "2019-11-15T23:25:51Z",
+                                                            "status": "PASS",
+                                                            "duration-ms": 5570
+                                                  }
+                                        ],
+                                        "name": "ManualStepExModule.AutoGenFeature.AutoGenScript"
+                              },
+                              "duration-ms": 71222
+                    },
+                    "started-at": "2019-11-15T17:54:40Z",
+                    "name": "ausuite",
+                    "groups": "",
+                    "finished-at": "2019-11-15T17:55:51Z",
+                    "duration-ms": 71222
+          },
+          "failed": 0,
+          "passed": 17,
+          "skipped": 0
+}}

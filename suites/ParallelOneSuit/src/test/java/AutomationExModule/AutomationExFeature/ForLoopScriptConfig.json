@@ -1,0 +1,24 @@
+{
+  "BrowserDetails": {
+    "Browser": "Chrome",
+    "Version": "70.0.3538.77",
+    "BrowserType": "Chrome"
+  },
+  "Timeout": {
+    "ImplicitWait": "6",
+    "ExplicitWait": "40"
+  },
+  "ScreenshotOption": {
+    "CaptureOnEveryStep": "Yes",
+    "CaptureOnFailure": "Yes"
+  },
+  "ExecutionCount": {
+    "reportCount": "530"
+  },
+  "SuiteName": {
+    "suiteName": "ParallelOneSuit"
+  },
+  "IpAddress": {
+    "IP": "http://192.168.99.100:4444"
+  }
+}
